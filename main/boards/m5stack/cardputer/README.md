@@ -98,3 +98,5 @@ Replace `PORT` with the serial device (for example `/dev/cu.usbmodem1101`).
 This writes the individual images and keeps saved WiFi; writing
 `merged-binary.bin` at 0x0 instead erases the NVS partition too.
 To enter download mode, hold G0 while plugging in USB.
+
+my build
